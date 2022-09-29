@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  margin: 10px;
+  margin-right: 10px;
+  border-collapse: collapse;
+  width: 95%;
+  table-layout: fixed;
+}
+
+th, td {
+  padding: 4px 8px;
+  border: 1px solid black;
+  background-color: white;
+}
